@@ -5,9 +5,8 @@ void main() {
     double tinggi = 168.2;
     bool aktif = true;
 
-    print(umur);
-    print(nama);
-    print(tinggi);
-    print(aktif);
-
+    print("umur: $umur");
+    print("nama: $nama");
+    print("tinggi: $tinggi");
+    print("aktif: $aktif");
 }
